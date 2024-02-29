@@ -1,0 +1,43 @@
+#buttons{
+    display: flex;
+    justify-content: space-between;
+}
+#container1{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    font-family: serif;
+}
+#sub1{
+    padding:50px 300px;
+}
+#cont{
+    border: solid 2px;
+}
+#sub2{
+    display: flex;
+    justify-content: space-evenly;
+    height: 250px;
+}
+#container2{
+    text-align: center;
+}
+#container3{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+}
+#cont2{
+    padding:50px 200px;
+}
+#container4{
+    text-align: center;
+}
+#container5{
+    display: flex;
+    justify-content: space-evenly;
+}
+#container6{
+    display: flex;
+    justify-content: space-around;
+}
